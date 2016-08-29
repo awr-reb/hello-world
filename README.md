@@ -7,5 +7,7 @@ This is after downloading zipfile from github.  Making this change and uploading
 
 Testing to see if this is in the readme-edits branch.
 
+Testing emojis in the branch.  
+
 #Robert Blanton
 #Software Engineer
