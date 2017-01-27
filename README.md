@@ -11,5 +11,7 @@ Testing emojis in the branch.
 
 See my github site [here] (https://awr-reb.github.io/).
 
+See my wordpress site [here] (https://robertblanton.wordpress.com/).
+
 #Robert Blanton
 #Software Engineer
