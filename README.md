@@ -17,6 +17,8 @@ Cloned github repo to my local desktop.
 
 Making change in GitHub, then will pull from local git repo.
 
+Making change in local git, then will push to GitHub.
+
 
 ## Robert Blanton
 ### Software Engineer
