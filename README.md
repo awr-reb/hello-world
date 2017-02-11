@@ -13,5 +13,7 @@ See my github site [here] (https://awr-reb.github.io/).
 
 See my wordpress site [here] (https://robertblanton.wordpress.com/).
 
+Cloned github repo to my local desktop.
+
 ## Robert Blanton
 ### Software Engineer
