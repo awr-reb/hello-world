@@ -15,5 +15,8 @@ See my wordpress site [here] (https://robertblanton.wordpress.com/).
 
 Cloned github repo to my local desktop.
 
+Making change in GitHub, then will pull from local git repo.
+
+
 ## Robert Blanton
 ### Software Engineer
